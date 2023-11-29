@@ -14,4 +14,13 @@ Array of the best n stories as returned by the Hacker News API
 11. Sample json outupt file and a screenshot of the output is available on the master branch.
      
 
-  
+Assumptions:
+1. The Hacker News API is available and reachable.
+2. The API response format remains consistent.
+
+Possible Enhancements:
+1. Implement caching for frequently requested data.
+2. Enhance unit testing by mocking external dependencies.
+3. Implement API rate limiting to prevent excessive requests.
+4. Use structured logging for more detailed log information.
+5. Implement a global exception handling mechanism. 
