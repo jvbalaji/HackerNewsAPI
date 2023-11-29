@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Charlie Munger has died",
+    "url": "https://www.berkshirehathaway.com/news/nov2823.pdf",
+    "by": "mfiguiere",
+    "time": 1701205394,
+    "score": 1414,
+    "descendants": 373
+  },
+  {
+    "title": "My toddler loves planes, so I built her a radar",
+    "url": "https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built",
+    "by": "jakey_bakey",
+    "time": 1701108967,
+    "score": 1283,
+    "descendants": 244
+  },
+  {
+    "title": "My $500M Mars rover mistake",
+    "url": "https://www.chrislewicki.com/articles/failurestory",
+    "by": "bryanrasmussen",
+    "time": 1701213377,
+    "score": 930,
+    "descendants": 308
+  },
+  {
+    "title": "$20k bounty was claimed",
+    "url": "https://prettier.io/blog/2023/11/27/20k-bounty-was-claimed",
+    "by": "conaclos",
+    "time": 1701103820,
+    "score": 706,
+    "descendants": 324
+  },
+  {
+    "title": "MeshGPT: Generating triangle meshes with decoder-only transformers",
+    "url": "https://nihalsid.github.io/mesh-gpt/",
+    "by": "jackcook",
+    "time": 1701194196,
+    "score": 689,
+    "descendants": 148
+  }
+]
