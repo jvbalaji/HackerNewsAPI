@@ -11,6 +11,7 @@ Array of the best n stories as returned by the Hacker News API
 8. The above output can be saved to a JSON text file by clicking on the Download button at the bottom (or) copied to the clipboard.
 9. The UI also displays the output schema specification in the Schemas section.
 10. The ASP code uses error handling and logging mechanisms.
+11. Sample json outupt file and a screenshot of the output is available on the master branch.
      
 
   
